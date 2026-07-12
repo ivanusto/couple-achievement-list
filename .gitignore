@@ -1,0 +1,10 @@
+# System & Environment Files
+.gemini/
+.agents/
+.DS_Store
+Thumbs.db
+*.log
+
+# Python / Scripts
+__pycache__/
+*.py[cod]
