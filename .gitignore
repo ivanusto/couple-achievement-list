@@ -8,3 +8,6 @@ Thumbs.db
 # Python / Scripts
 __pycache__/
 *.py[cod]
+
+# Claude Code per-user permissions (may contain secrets)
+.claude/settings.local.json
